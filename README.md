@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11621034-5b2a-41fb-a4ff-10d97e7662bd" /># 🎮 Gaming Tournament Registration System
 ## 📌 Project Overview
 - The Gaming Tournament Registration System is a mini web-based project developed using HTML, CSS, PHP, and MySQL.
 - It allows players to register for gaming tournaments by submitting their details through an interactive and user-friendly form.
