@@ -34,8 +34,7 @@ The system collects the following details:
 #### 4.Create database in phpMyAdmin:
 CREATE DATABASE game;
 #### 5.Create table:
-
- CREATE TABLE Players(
+#####  CREATE TABLE Players(
     id INT AUTO_INCREMENT PRIMARY KEY,
     PlayerName VARCHAR(30),
     Email VARCHAR(30),
