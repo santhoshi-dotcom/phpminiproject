@@ -34,8 +34,8 @@ The system collects the following details:
 #### 4.Create database in phpMyAdmin:
 CREATE DATABASE game;
 #### 5.Create table:
-sql
-CREATE TABLE Players(
+
+##### CREATE TABLE Players(
     id INT AUTO_INCREMENT PRIMARY KEY,
     PlayerName VARCHAR(30),
     Email VARCHAR(30),
@@ -48,14 +48,14 @@ CREATE TABLE Players(
 );
 #### 6.Run project in browser:
 
-http://localhost/folder_name/index.php
+http://localhost/index.php
 ## 📁 Project Structure
 
 - Gaming-Tournament/
-- │── index.php        # Frontend form UI
-- │── process.php      # Handles form submission
-- │── db.php           # Database connection
-- │── README.md        # Project documentation
+- │── index.php              # Frontend form UI
+- │── process.php            # Handles form submission
+- │── db.php                 # Database connection
+- │── README.md              # Project documentation
 ## 🎯 Learning Outcomes
 - Understanding of HTML forms and input handling
 - Styling UI using CSS (modern design techniques)
