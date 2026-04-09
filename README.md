@@ -61,6 +61,11 @@ CREATE DATABASE game;
 - Handling form data with PHP
 - Connecting PHP with MySQL database
 - Performing basic CRUD operations
+## screenshots
+ <img width="1889" height="918" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/a3826c39-1af9-4090-b3d0-03d1a5c4df3d" />
+ <img width="1559" height="1017" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/826419af-9ce4-496a-9528-23d9f4f47141" />
+
+
 ## 🔮 Future Enhancements
 - ✅ Admin dashboard to view registrations
 - ✅ Edit/Delete player details
