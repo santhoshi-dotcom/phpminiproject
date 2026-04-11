@@ -86,7 +86,7 @@ CREATE DATABASE game;
  
  <img width="1908" height="914" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/34da4c76-d4d8-41e8-a168-45d10fab837c" />
 
- ### 4.Entered Details Stored In Database.
+ ### 4.Entered Details Are Stored In Database.
  
  <img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/9e1330d0-de26-48e6-8c6e-26a7f9267247" />
 
@@ -95,7 +95,7 @@ CREATE DATABASE game;
 - 💳 Payment gateway integration
 - 📧 Email confirmation after registration
 - 🔐 Admin Login System
-- ## 👩‍💻 Author
+ ## 👩‍💻 Author
 - Santhoshi G
 - 💻 Fresher passionate about Web Development
 - 📊 Skilled in MySQL and PHP basics
