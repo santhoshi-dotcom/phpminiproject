@@ -74,7 +74,7 @@ CREATE DATABASE game;
 - Handling form data with PHP
 - Connecting PHP with MySQL database
 - Performing basic CRUD operations
-## screenshots
+## 📁Screenshots
  <img width="1883" height="912" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/16e41e91-1f2f-4d95-b28f-68105f0134e5" />
  <img width="1823" height="651" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f2750abe-d8ca-4755-9e7f-6782c78c8b20" />
  <img width="1908" height="914" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/34da4c76-d4d8-41e8-a168-45d10fab837c" />
